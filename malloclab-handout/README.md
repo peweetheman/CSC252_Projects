@@ -1,11 +1,8 @@
-#####################################################################
 # CS:APP Malloc Lab
-# Handout files for students
-#
-# Copyright (c) 2002, R. Bryant and D. O'Hallaron, All rights reserved.
-# May not be used, modified, or copied without permission.
-#
-######################################################################
+## Patrick Phillips
+Copyright (c) 2002, R. Bryant and D. O'Hallaron, All rights reserved.
+
+#### In this project I wrote a Dynamic Storage Allocator. This projet was part of my CSC 252 course at the U of R, and was done in conjunction with R. Bryant and D. O'Hallaron's textbook.
 
 ***********
 Main Files:
