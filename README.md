@@ -1,5 +1,5 @@
 # CSC252_Projects
-Projects completed for the CSC 252 Computer Organization course at the University of Rochester.
+This repository includes the projects completed for the CSC 252 Computer Organization course at the University of Rochester.
 
 <p align="center">
 <img src="http://www.cb-india.com/images/detailed/4/computer-systems-a-programmer-s-perspective-original-imaerfy3utyzgzpx.jpeg"
