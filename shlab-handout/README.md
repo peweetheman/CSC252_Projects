@@ -15,6 +15,7 @@ tshref		- The reference shell binary.
 sdriver.pl	- The trace-driven shell driver
 
 trace*.txt	- The 15 trace files that control the shell driver
+
 tshref.out 	- Example output of the reference shell on all 15 traces
 
 ##### C programs that are called by the trace files:
