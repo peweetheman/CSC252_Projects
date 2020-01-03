@@ -1,6 +1,4 @@
-################
-CS:APP Shell Lab
-################
+##Unix Shell Lab
 
 Files:
 
