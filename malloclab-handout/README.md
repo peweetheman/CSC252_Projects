@@ -9,14 +9,13 @@ Main Files:
 ***********
 
 mm.{c,h}	
-	Your solution malloc package. mm.c is the file that you
-	will be handing in, and is the only file you should modify.
+	My solution to the malloc package. mm.c is the file that I implemented the dynamic storage allocator and malloc method.
 
 mdriver.c	
-	The malloc driver that tests your mm.c file
+	The malloc driver that tests the mm.c file
 
 short{1,2}-bal.rep
-	Two tiny tracefiles to help you get started. 
+	Two tiny tracefiles used to start the project. 
 
 Makefile	
 	Builds the driver
