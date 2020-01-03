@@ -1,21 +1,25 @@
+#####################################################################
 # CS:APP Malloc Lab
-## Patrick Phillips
-Copyright (c) 2002, R. Bryant and D. O'Hallaron, All rights reserved.
-
-#### In this project I wrote a Dynamic Storage Allocator. This projet was part of my CSC 252 course at the U of R, and was done in conjunction with R. Bryant and D. O'Hallaron's textbook.
+# Handout files for students
+#
+# Copyright (c) 2002, R. Bryant and D. O'Hallaron, All rights reserved.
+# May not be used, modified, or copied without permission.
+#
+######################################################################
 
 ***********
 Main Files:
 ***********
 
 mm.{c,h}	
-	My solution to the malloc package. mm.c is the file that I implemented the dynamic storage allocator and malloc method.
+	Your solution malloc package. mm.c is the file that you
+	will be handing in, and is the only file you should modify.
 
 mdriver.c	
-	The malloc driver that tests the mm.c file
+	The malloc driver that tests your mm.c file
 
 short{1,2}-bal.rep
-	Two tiny tracefiles used to start the project. 
+	Two tiny tracefiles to help you get started. 
 
 Makefile	
 	Builds the driver
