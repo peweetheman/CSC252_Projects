@@ -2,7 +2,7 @@
 Projects completed for the CSC 252 Computer Organization course at the University of Rochester.
 
 <img src="http://www.cb-india.com/images/detailed/4/computer-systems-a-programmer-s-perspective-original-imaerfy3utyzgzpx.jpeg"
-     alt="Computer systems"
+     alt="fsdasfdaaaaaaaaaaaaaaaaaaaaaaaaaafsdafsdafsadsafdfdsafsad"
      style="float: left; margin-right: 10px;" />
      
 As part of my CSC 252 class Computer Organization I worked through the projects of Bryant and O'Hallarons textbook <a href="https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X">Computer Systems: A Programmer's Perspective.</a>
