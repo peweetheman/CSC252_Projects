@@ -2,14 +2,10 @@
 
 #### Files:
 
-Makefile	- Compiles shell program and runs the tests
-
-README		- This file
-
-tsh.c		  - The shell program
-
+Makefile	- Compiles shell program and runs the tests  
+README		- This file  
+tsh.c		  - The shell program  
 tshref		- The reference shell binary.
-
 
 #### The files used to test my shell:
 sdriver.pl	- The trace-driven shell driver  
