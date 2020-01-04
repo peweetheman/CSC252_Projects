@@ -1,0 +1,6 @@
+movl $0x659ad488, %eax
+lea 0x28(%esp), %ebp
+movl $0x659ad488, 0x55685fd4
+movl 0x55685fd0, %edx 
+pushl $0x08048cd6
+ret

@@ -1,0 +1,7 @@
+movl $0x659ad488, %eax
+leal 0x28(%esp), %ebp
+movl $0x659ad488, 0xc(%esp)
+movl $0x659ad488, 0x10(%esp)
+movl 0x10(%esp), %edx
+pushl $0x08048cd6
+ret
